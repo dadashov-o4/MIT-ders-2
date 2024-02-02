@@ -1,0 +1,17 @@
+/* butun teg lere style vermek ucun * istifade edirik */
+* {
+    text-decoration: none;
+}
+
+/* tegi yazaraq style veririk */
+b {
+    background-color: red;
+    color: white;
+    /*TODO text-decoration: line-through;*/
+}
+
+/* class lara .class yazaraq style veririk */
+.eyri { 
+    background-color: red;
+    /*TODO text-decoration: underline;*/
+}
